@@ -1,1 +1,1 @@
-# Diligence.github.io
+# diligence.github.io
