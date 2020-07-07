@@ -5,7 +5,7 @@ Objectives
 ----------
 Our  objective  is  to  act  as  quickly  as  possible  before  relapses  or  second primary tumors which are really common and explained the poor prognosis. Secondly, we want to  ensure  a  precision  follow-up  for  each  patient.  We  want  to  provide  an  early  diagnosis  of HNSCC  with  the  help  of  liquid  biopsy  kits  analyzed  by  a  machine  incorporating  AI  which precisely give prognostics of the risk of recurrence thanks to clinical and NGS data. This will be focus  on  genes  panel  known  to  be  altered  in  HNSCC.  This  will  allow  to  reduce  coast  and  be more effective for the Public Health and Hospital 
 
-Logo of Our Company
+Logo of Our Company &copy;
 ===================
 
 ![alt text](Team/diligence_logo.jpg "Diligence")
